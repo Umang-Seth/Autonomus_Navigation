@@ -1,0 +1,16 @@
+/home/umang/ros2ws/install/sim_gazebo_bringup/share/sim_gazebo_bringup//launch/sim_gazebo.launch.py
+/home/umang/ros2ws/install/sim_gazebo_bringup/share/ament_index/resource_index/package_run_dependencies/sim_gazebo_bringup
+/home/umang/ros2ws/install/sim_gazebo_bringup/share/ament_index/resource_index/parent_prefix_path/sim_gazebo_bringup
+/home/umang/ros2ws/install/sim_gazebo_bringup/share/sim_gazebo_bringup/environment/ament_prefix_path.sh
+/home/umang/ros2ws/install/sim_gazebo_bringup/share/sim_gazebo_bringup/environment/ament_prefix_path.dsv
+/home/umang/ros2ws/install/sim_gazebo_bringup/share/sim_gazebo_bringup/environment/path.sh
+/home/umang/ros2ws/install/sim_gazebo_bringup/share/sim_gazebo_bringup/environment/path.dsv
+/home/umang/ros2ws/install/sim_gazebo_bringup/share/sim_gazebo_bringup/local_setup.bash
+/home/umang/ros2ws/install/sim_gazebo_bringup/share/sim_gazebo_bringup/local_setup.sh
+/home/umang/ros2ws/install/sim_gazebo_bringup/share/sim_gazebo_bringup/local_setup.zsh
+/home/umang/ros2ws/install/sim_gazebo_bringup/share/sim_gazebo_bringup/local_setup.dsv
+/home/umang/ros2ws/install/sim_gazebo_bringup/share/sim_gazebo_bringup/package.dsv
+/home/umang/ros2ws/install/sim_gazebo_bringup/share/ament_index/resource_index/packages/sim_gazebo_bringup
+/home/umang/ros2ws/install/sim_gazebo_bringup/share/sim_gazebo_bringup/cmake/sim_gazebo_bringupConfig.cmake
+/home/umang/ros2ws/install/sim_gazebo_bringup/share/sim_gazebo_bringup/cmake/sim_gazebo_bringupConfig-version.cmake
+/home/umang/ros2ws/install/sim_gazebo_bringup/share/sim_gazebo_bringup/package.xml

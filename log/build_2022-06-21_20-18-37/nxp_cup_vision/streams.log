@@ -1,0 +1,32 @@
+[1.752s] Invoking command in '/home/umang/ros2ws/build/nxp_cup_vision': AMENT_PREFIX_PATH=/home/umang/ros2ws/install/nxp_cup_interfaces:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/umang/ros2ws/install/nxp_cup_interfaces:${CMAKE_PREFIX_PATH} LD_LIBRARY_PATH=/home/umang/ros2ws/install/nxp_cup_interfaces/lib:${LD_LIBRARY_PATH} PYTHONPATH=/home/umang/ros2ws/install/nxp_cup_vision/lib/python3.8/site-packages:/home/umang/ros2ws/install/nxp_cup_interfaces/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py develop --prefix /home/umang/ros2ws/install/nxp_cup_vision --editable --build-directory /home/umang/ros2ws/build/nxp_cup_vision/build --no-deps install_data --install-dir /home/umang/ros2ws/install/nxp_cup_vision
+[2.373s] running develop
+[2.714s] running egg_info
+[2.715s] creating nxp_cup_vision.egg-info
+[2.761s] writing nxp_cup_vision.egg-info/PKG-INFO
+[2.800s] writing dependency_links to nxp_cup_vision.egg-info/dependency_links.txt
+[2.919s] writing entry points to nxp_cup_vision.egg-info/entry_points.txt
+[2.998s] writing requirements to nxp_cup_vision.egg-info/requires.txt
+[3.037s] writing top-level names to nxp_cup_vision.egg-info/top_level.txt
+[3.039s] writing manifest file 'nxp_cup_vision.egg-info/SOURCES.txt'
+[3.094s] reading manifest file 'nxp_cup_vision.egg-info/SOURCES.txt'
+[3.095s] writing manifest file 'nxp_cup_vision.egg-info/SOURCES.txt'
+[3.180s] running build_ext
+[3.180s] Creating /home/umang/ros2ws/install/nxp_cup_vision/lib/python3.8/site-packages/nxp-cup-vision.egg-link (link to .)
+[3.181s] Installing nxp_track_vision script to /home/umang/ros2ws/install/nxp_cup_vision/lib/nxp_cup_vision
+[3.181s] 
+[3.181s] Installed /home/umang/ros2ws/build/nxp_cup_vision
+[3.181s] running install_data
+[3.181s] creating /home/umang/ros2ws/install/nxp_cup_vision/share/ament_index
+[3.181s] creating /home/umang/ros2ws/install/nxp_cup_vision/share/ament_index/resource_index
+[3.182s] creating /home/umang/ros2ws/install/nxp_cup_vision/share/ament_index/resource_index/packages
+[3.182s] copying resource/nxp_cup_vision -> /home/umang/ros2ws/install/nxp_cup_vision/share/ament_index/resource_index/packages
+[3.182s] copying package.xml -> /home/umang/ros2ws/install/nxp_cup_vision/share/nxp_cup_vision
+[3.182s] /home/umang/.local/lib/python3.8/site-packages/setuptools/command/easy_install.py:144: EasyInstallDeprecationWarning: easy_install command is deprecated. Use build and pip and other standards-based tools.
+[3.182s]   warnings.warn(
+[3.182s] /home/umang/.local/lib/python3.8/site-packages/setuptools/command/install.py:34: SetuptoolsDeprecationWarning: setup.py install is deprecated. Use build and pip and other standards-based tools.
+[3.182s]   warnings.warn(
+[3.182s] /home/umang/.local/lib/python3.8/site-packages/pkg_resources/__init__.py:123: PkgResourcesDeprecationWarning: 0.1.36ubuntu1 is an invalid version and will not be supported in a future release
+[3.182s]   warnings.warn(
+[3.182s] /home/umang/.local/lib/python3.8/site-packages/pkg_resources/__init__.py:123: PkgResourcesDeprecationWarning: 0.23ubuntu1 is an invalid version and will not be supported in a future release
+[3.182s]   warnings.warn(
+[3.216s] Invoked command in '/home/umang/ros2ws/build/nxp_cup_vision' returned '0': AMENT_PREFIX_PATH=/home/umang/ros2ws/install/nxp_cup_interfaces:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/umang/ros2ws/install/nxp_cup_interfaces:${CMAKE_PREFIX_PATH} LD_LIBRARY_PATH=/home/umang/ros2ws/install/nxp_cup_interfaces/lib:${LD_LIBRARY_PATH} PYTHONPATH=/home/umang/ros2ws/install/nxp_cup_vision/lib/python3.8/site-packages:/home/umang/ros2ws/install/nxp_cup_interfaces/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py develop --prefix /home/umang/ros2ws/install/nxp_cup_vision --editable --build-directory /home/umang/ros2ws/build/nxp_cup_vision/build --no-deps install_data --install-dir /home/umang/ros2ws/install/nxp_cup_vision
